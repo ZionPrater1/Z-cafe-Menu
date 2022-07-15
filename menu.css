@@ -1,0 +1,25 @@
+body {
+    background-color: #F8EE9C;
+    color: black;
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    
+  }
+
+  img {
+    width: 800px;
+    height: 800px;
+  }
+  
+  header{
+    width:100%;
+    height: 200px;
+    font-weight: bold;
+    text-align: left;
+    background:black;
+    transition: 0.3s;
+    color:black;
+    padding:2px;
+  }
+ 
